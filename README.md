@@ -119,14 +119,14 @@ SmartWasteCV/
 
 ###  Streamlit Inference Interface
 
-![App Demo](images/app_demo.png)
-![App Demo](images/app_demo1.png)
-![App Demo](images/app_demo2.png)
+![App Demo](Images/app_demo.png)
+![App Demo](Images/app_demo1.png)
+![App Demo](Images/app_demo2.png)
 ---
 
 ### 🔬 Grad-CAM Interpretability
 
-![GradCAM Demo](images/gradcam_demo.png)
+![GradCAM Demo](Images/gradcam_demo.png)
 
 ---
 ---
