@@ -115,6 +115,22 @@ SmartWasteCV/
 
 ---
 
+##  Demo Preview
+
+###  Streamlit Inference Interface
+
+![App Demo](images/app_demo.png)
+![App Demo](images/app_demo1.png)
+![App Demo](images/app_demo2.png)
+---
+
+### 🔬 Grad-CAM Interpretability
+
+![GradCAM Demo](images/gradcam_demo.png)
+
+---
+---
+
 ## Author
 
 Developed as part of practical exploration in Computer Vision & Applied AI.
