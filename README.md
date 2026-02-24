@@ -34,10 +34,10 @@ The model is integrated into an interactive **Streamlit web application** for re
 
 Why MobileNetV2?
 
-✔ Lightweight  
-✔ Fast inference  
-✔ Suitable for real-time applications  
-✔ Edge-device friendly
+ Lightweight  
+ Fast inference  
+ Suitable for real-time applications  
+ Edge-device friendly
 
 ---
 
@@ -47,9 +47,9 @@ To enhance model interpretability, **Grad-CAM visualization** was implemented.
 
 This allows inspection of:
 
-✔ Regions influencing model decisions  
-✔ Model attention behavior  
-✔ Prediction transparency  
+Regions influencing model decisions  
+Model attention behavior  
+Prediction transparency  
 
 ---
 
@@ -57,10 +57,10 @@ This allows inspection of:
 
 Features:
 
-✔ Image Upload Interface  
-✔ Real-time Prediction  
-✔ Confidence Score  
-✔ Grad-CAM Heatmap Visualization  
+Image Upload Interface  
+Real-time Prediction  
+Confidence Score  
+Grad-CAM Heatmap Visualization  
 
 ---
 
@@ -107,11 +107,11 @@ SmartWasteCV/
 
 ## Key Learnings
 
-✔ Transfer Learning  
-✔ Model Fine-tuning  
-✔ CNN Optimization  
-✔ Model Interpretability  
-✔ ML System Deployment  
+Transfer Learning  
+Model Fine-tuning  
+CNN Optimization  
+Model Interpretability  
+ML System Deployment  
 
 ---
 
@@ -124,7 +124,7 @@ SmartWasteCV/
 ![App Demo](Images/app_demo2.png)
 ---
 
-### 🔬 Grad-CAM Interpretability
+###  Grad-CAM Interpretability
 
 ![GradCAM Demo](Images/gradcam_demo.png)
 
